@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #2bd06552;
+    background-color: #04271091;
 }
 
 .fixed-header {
@@ -86,4 +86,14 @@ main {
     border: none;
     border-radius: 0px 5px 5px 0px;
     font-size: 13px;
+}
+.explanatory-video{
+    display: flex;
+    flex-flow: wrap column;
+    align-items: center;
+}
+
+.explanatory-video img {
+    width: 120px;
+    margin-top: 10px;
 }
