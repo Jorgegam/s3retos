@@ -35,3 +35,14 @@ main {
     height: 100px;
     background-color: aqua;
 }
+
+.explanatory-video{
+    display: flex;
+    flex-flow: wrap column;
+    align-items: center;
+}
+
+.explanatory-video img {
+    width: 120px;
+    margin-top: 10px;
+}
