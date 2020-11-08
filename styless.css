@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #04271091;
+    background-color: #0427107a;
 }
 
 .fixed-header {
@@ -15,15 +15,18 @@ body{
     background-color: #fffbf7;
     text-align: center;
     line-height: 100px;
+    font-family: vesterbroextrabold,Arial,sans-serif;
+    font-size: 20px;
 }
 .container-header{
     width: 100%;
     height: 100px;
-    background-color: #a3c7b0;
+    background-color: #025157ba;
 }
 
 main {
-    margin-top: 100px;
+    margin-top: 110px;
+    
     text-align: center;
 }
 
